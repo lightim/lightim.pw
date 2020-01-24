@@ -1,2 +1,7 @@
 # lightim.pw
-Website of lightim.
+
+WIP
+
+## Developer's Site
+
+https://dev.lightim.pw
